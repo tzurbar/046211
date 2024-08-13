@@ -42,7 +42,7 @@ We used a [Kaggle dataset](https://www.kaggle.com/datasets/ismailpromus/skin-dis
 ## Files in the repository <img src="https://github.com/tzurbar/046211/blob/main/Assets/Icons/document_11456210.png" alt="Icon" width="30" height="30">
 | File name	    | Purpsoe |
 | ------------- | ------- |
-| DINOv2_with_DORA.ipynb         | Traning, validating and testing of the DINOV2 with DoRA   |
+| DINOv2_with_DORA_with_augmentation.ipynb         | Traning, validating and testing of the DINOV2 with DoRA   |
 | ResNet_with_DORA_with_augmentation.ipynb        | Traning, validating and testing of the ResNet-101 with DoRA   |
 | Plot_image_classes.ipynb   | Plot Classes Images from our dataset  |
 
