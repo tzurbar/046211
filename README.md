@@ -1,6 +1,9 @@
 # Skin Diseases Calssification with pretrained models
 The aim of our project is to develop a system that allows individuals to obtain a preliminary analysis of skin problems through an image, serving as a pre-consultation step before seeing a medical professional. We leveraged pretrained models and utilized the DoRA methods to enhance the accuracy and reliability of the analysis, while exploring if good results can be achieved with less computational resources.
 
+## Motivation
+Skin and subcutaneous diseases are common health problems worldwide and are the leading causes of the global disease burden. Early detection of skin diseases sometimes is crucial and lifesaving. Using deep learning as a tool for detection can benefit us in many aspects such as quicker, cheaper, and accessible skin problem analysis and assisting dermatologists classifying skin problems.
+
 ## Method <img src="https://github.com/tzurbar/046211/blob/main/Assets/Icons/entrepreneurship_8552566.png" alt="Icon" width="30" height="30">
 In this project we examined the use of pretrained models – DINOV2 (ViT) and ResNet-101 (CNN). We aimed to see if we can get better results using large pretrained models with fine tuning methods (DoRA).
 
